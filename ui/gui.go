@@ -2,7 +2,7 @@ package ui
 
 import (
 	"fmt"
-	"hakob/metrics/memory"
+	"github.com/hakmkoyan/metrics/memory"
 	"strconv"
 	"time"
 

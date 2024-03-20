@@ -1,6 +1,6 @@
 package main
 
-import "hakob/metrics/ui"
+import "github.com/hakmkoyan/metrics/ui"
 
 func main() {
 	ui.MainDashboard()
